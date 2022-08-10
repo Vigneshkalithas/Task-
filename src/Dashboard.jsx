@@ -74,7 +74,7 @@ const ResponsiveAppBar = () => {
                   textDecoration: "none",
                 }}
               >
-                SCALE
+                TASK
               </Typography>
 
               <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
@@ -134,7 +134,7 @@ const ResponsiveAppBar = () => {
                   textDecoration: "none",
                 }}
               >
-                Bookmyshow
+                TASK
               </Typography>
               <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
                 <Button
